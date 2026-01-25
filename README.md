@@ -1,6 +1,6 @@
-# Chicago 311 Service Requests - Operational Performance Analysis (Jan - Sep 2024)
+# Chicago 311 Service Requests - Operational Performance Analysis (Jan - Sept 2024)
 
-This project analyzes Chicago 311 service requests (Jan - Sep 2024) to evaluate operational performance, resolution efficiency, and geographic workload distribution.
+This project analyzes Chicago 311 service requests (January - September 2024) to evaluate operational performance, resolution efficiency, and geographic workload distribution.
 
 ## Key Questions
 1. Are 311 requests being resolved at the same pace they are created?
@@ -18,3 +18,14 @@ This project analyzes Chicago 311 service requests (Jan - Sep 2024) to evaluate 
 Tableau Public: https://public.tableau.com/app/profile/ryanw/viz/chicago311serviceoperations/DASHBOARD
 <img width="1198" height="899" alt="tableau dashboard" src="https://github.com/user-attachments/assets/e642e757-33c3-44ac-8de2-1d05a1344c1d" />
 
+## Data & Tools
+- Data Source: City of Chicago 311 Service Requests (https://data.cityofchicago.org/Service-Requests/311-Service-Requests/v6vf-nfxy)
+- Timeframe: January - September 2024
+- Tools: SQL Server, Tableau Public
+- SQL: Data cleaning and standardization
+
+## Repository Structure
+/data: How to acccess original source and cleaned dataset 
+/sql: SQL queries for data cleaning and transformation
+/tableau: Tableau dashboard link and preview  
+README.md: Project summary and findings
