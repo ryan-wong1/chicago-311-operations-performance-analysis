@@ -7,7 +7,7 @@ This project analyzes Chicago 311 service requests (January - September 2024) to
 2. Is resolution speed improving or degrading over time?
 3. Which community areas generate the highest request volume?
 4. Do high-volume areas also experience slower resolution times?
-
+     
 ## Key Findings
 1. Request volume and resolved cases move closely together month-to-month which shows the city is generally keeping up with incoming requests.
 2. Average resolution time increased from January through May even though request volume remained fairly steady which indicates a temporary strain on capacity.
@@ -18,7 +18,7 @@ This project analyzes Chicago 311 service requests (January - September 2024) to
 Tableau Public: https://public.tableau.com/app/profile/ryanw/viz/chicago311serviceoperations/DASHBOARD
 <img width="1198" height="899" alt="tableau dashboard" src="https://github.com/user-attachments/assets/e642e757-33c3-44ac-8de2-1d05a1344c1d" />
 
-## Data & Tools
+## Data and Tools
 - Data Source: City of Chicago 311 Service Requests (https://data.cityofchicago.org/Service-Requests/311-Service-Requests/v6vf-nfxy)
 - Timeframe: January - September 2024
 - Tools: SQL Server, Tableau Public
