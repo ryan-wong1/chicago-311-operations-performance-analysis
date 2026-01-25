@@ -1,9 +1,6 @@
-# Chicago 311 Service Requests - Operational Performance Analysis (Jan – Sep 2024)
+# Tableau Dashboard
 
-This project analyzes Chicago 311 service requests (Jan - Sep 2024) to evaluate operational performance, resolution efficiency, and geographic workload distribution.
+This folder contains assets related to the Tableau Public dashboard for this project.
 
-## Key Questions
-1. Are 311 requests being resolved at the same pace they are created?
-2. Is resolution speed improving or degrading over time?
-3. Which community areas generate the highest request volume?
-4. Do high-volume areas also experience slower resolution times?
+- Interactive dashboard: https://public.tableau.com/app/profile/ryanw/viz/chicago311serviceoperations/DASHBOARD
+- Dashboard preview: <img width="1198" height="899" alt="tableau dashboard" src="https://github.com/user-attachments/assets/65f95d35-0b7d-46db-94f8-d69d68077da4" />
