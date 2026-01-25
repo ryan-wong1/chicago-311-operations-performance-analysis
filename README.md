@@ -25,7 +25,7 @@ Tableau Public: https://public.tableau.com/app/profile/ryanw/viz/chicago311servi
 - SQL: Data cleaning and standardization
 
 ## Repository Structure
-/data: How to acccess original source and cleaned dataset 
-/sql: SQL queries for data cleaning and transformation
-/tableau: Tableau dashboard link and preview  
+data: How to acccess original source and cleaned dataset 
+sql: SQL queries for data cleaning and transformation
+tableau: Tableau dashboard link and preview  
 README.md: Project summary and findings
